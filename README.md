@@ -10,7 +10,7 @@ Este projeto consiste em mostrar meus recentes e futuros trabalhos realizados ao
 
 Veja abaixo uma foto do projeto.
 
-
+- ![Imagem](imagemdoprojeto.jpg)
 
 ## 🎯 Objetivo do projeto
 
@@ -46,4 +46,4 @@ Abra http://localhost:3000 no seu navegador para visualizar o projeto
 ```
 
 ## Licença
-Copyright © 2021 Caio Augusto.
+Copyright © 2021 Carlos Nowatzki.

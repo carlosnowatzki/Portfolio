@@ -18,7 +18,7 @@ const AboutSection = () => {
           old.
         </S.AboutTexts>
         <S.AboutTexts>
-          My passion for technology was born when I was 5 years old, when I
+          My passion for technology was born when I was 10 years old, when I
           first used a computer.
         </S.AboutTexts>
         <S.AboutTexts>
