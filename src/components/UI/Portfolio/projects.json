@@ -1,0 +1,33 @@
+[
+  {
+    "project_name": "ZIP query",
+    "project_description": "Project developed for the zip code consultation of the region you want, I was inspired by my work where I see clients consult the desired freight values ​​for their location.",
+    "project_git": "https://github.com/C4RL0M/Consulta-de-CEP",
+    "project_image": "https://aletp.com.br/wp-content/uploads/2017/08/logo-correios.png"
+  },
+  {
+    "project_name": "Robo for iq option",
+    "project_description": "Make income from anywhere in the world with just 1 cell phone or computer and an internet connection, even if you don't understand anything about the market. Be your own boss. Profit from where and when you want.",
+    "project_git": "https://github.com/C4RL0M/Analise-do-grafico-IQ",
+    "project_image": "https://trademarketbrasil.com.br/wp-content/uploads/2020/06/-robo-trader-iq-option-e-op-2-1024x576.jpg"
+  },
+  {
+    "project_name": "Site",
+    "project_description": "Tche Reformas & Reparos is a company with more than 25 years of experience in the civil construction segment. With the commitment to serve our customers with mastery, we are standing out within the segment. Today we have highly qualified professionals with a team formed by Engineers, Architects, Technicians, Electricians, Bricklayers, among other functions of extreme importance to develop any type of services within the construction sector. Check it out.",
+    "project_url": "https://tchereformas.com.br/",
+    "project_git": "https://github.com/C4RL0M/Projeto-Tch-Reformas-e-Reparos-",
+    "project_image": "https://cdn.dooca.store/2221/files/verde-e-preto-padrao-reuniao-da-empresa-apresentacao.jpg?v=1616166053"
+  },
+  {
+    "project_name": "PHP",
+    "project_description": "Repository created to start my learning in php, I made simple applications to more complex applications, to check the most elaborate projects, check, app to open calls, customer registration, product registration and contact!",
+    "project_git": "https://github.com/C4RL0M/PHP-HMTL-CSS",
+    "project_image": "https://pplware.sapo.pt/wp-content/uploads/2020/07/php_01.jpg"
+  },
+  {
+    "project_name": "Exchanging messages",
+    "project_description": "Application developed to carry out message exchange, using the browser as a user and your machine as a local server. Follow Readme.md for the installation step by step.",
+    "project_git": "https://github.com/C4RL0M/Troca-de-mensagens-",
+    "project_image": "https://image.freepik.com/vetores-gratis/ilustracao-de-troca-de-mensagens-com-bolhas-de-menina-menino-e-discurso_276875-21.jpg"
+  }
+]
