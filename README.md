@@ -31,7 +31,7 @@ Para que este rode em sua máquina, siga os passos abaixo:
 
 ```bash
 # Clone o repositório em alguma pasta em sua máquina
-$ git clone https://github.com/C4RL0M/portifolio_c4rlom
+$ git clone https://github.com/C4RL0M/portfolio
 
 # Entre no repositório
 $ cd portfolio_nextjs
