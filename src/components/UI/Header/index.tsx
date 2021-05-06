@@ -106,7 +106,7 @@ const Header = () => {
             </S.MobileItem>
             <S.MobileItem>
               <a href="https://www.linkedin.com/in/carlos-miguel-8b75b51b5/" target="_blank" rel="noopener">
-                Blog
+              Linkedin
               </a>
             </S.MobileItem>
             <S.MobileItem>

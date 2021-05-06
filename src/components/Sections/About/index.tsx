@@ -18,35 +18,26 @@ const AboutSection = () => {
           old.
         </S.AboutTexts>
         <S.AboutTexts>
-          My passion for technology was born when I was 10 years old, when I
-          first used a computer.
+        To be honest I can't say when I really started to like programming, I just know that it came out of nowhere in my life! Previously my hobby was playing football, I was an active member of several clubs, my spells were for clubs like: Novo Hamburgo, Aimoré, Juventude, Ivoti and lastly Grêmio.
         </S.AboutTexts>
         <S.AboutTexts>
-          I started as a Front End Developer on 3/4/2020. Since then I have been
-          dedicating about 12 hours a day to studies.
+        Last year I started in college and started my computer engineering course. I am not very curious about the method used to encompass electrical engineering with programming, for you reader who may not know it, computer engineering is the union of electrical engineering with computer science.
         </S.AboutTexts>
         <S.AboutTexts>
-          I see that I am on the right path because I love helping people who
-          are starting out, just as I was a beginner. Furthermore, I see the
-          results that the dedicated hours bring.
+        As I mentioned earlier, I didn’t really like college, so I made the switch to computer science where I’m really enjoying the course. I started in 2020 to work in an e-commerce company where talking to several programmers from the company that I really started to make progress in my field of learning.
         </S.AboutTexts>
         <S.AboutTexts>
-          I have a huge passion for helping people who are just starting out and
-          my biggest hobby is contributing to open source projects. Codes,
-          movies, video games, music, podcast and studies are subjects that
-          interest me.
+        In this portfolio I aim to show my applications that I uploaded to my Github, I am very grateful to my friend Caio, who gave me the opportunity to learn from this portfolio!
         </S.AboutTexts>
         <S.AboutTexts>
-          In my spare time I usually read about <span>reactive</span>,{" "}
-          <span>asynchronous</span> and <span>object-oriented</span>{" "}
-          programming. I like to read{" "}
+        If you want to have a friendship with me just call me to play {" "}
           <a
-            href="https://www.amazon.com/dp/B085D95SX5?searchxofy=true&binding=kindle_edition&ref_=dbs_s_aps_series_rwt_tkin"
+            href="https://www.ubisoft.com/pt-br/game/rainbow-six/siege"
             target="_blank"
-            title="Martin's book series"
+            title="Rainbow Six Siege"
             rel="noopener"
           >
-            Robert C. Martin's book series
+            Rainbow Six Siege
           </a>
           .
         </S.AboutTexts>
@@ -59,6 +50,15 @@ const AboutSection = () => {
             rel="noopener"
           >
             React.js
+          </a>
+          ,{" "}
+          <a
+            href="https://www.php.net/"
+            target="_blank"
+            title="PHP documentation"
+            rel="noopener"
+          >
+            PHP
           </a>
           ,{" "}
           <a

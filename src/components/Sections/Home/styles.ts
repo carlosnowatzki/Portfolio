@@ -44,7 +44,7 @@ export const Welcome = styled.div`
     svg {
       margin-left: 10px;
       animation-name: ${shakeHands};
-      animation-duration: 2.5s;
+      animation-duration: 0.7s;
       animation-iteration-count: infinite;
       transform-origin: 70% 70%;
       display: inline-block;
