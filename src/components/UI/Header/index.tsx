@@ -26,10 +26,10 @@ const Header = () => {
             duration={duration}
           >
             <img
-              src="/img/CM Agência.jpg"
+              src="/img/icons8-alien-48.png"
               alt="Logo com as inicias 'C A'"
-              width={125}
-              height={130}
+              width={50}
+              height={50}
             />
           </Link>
 
