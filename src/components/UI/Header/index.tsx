@@ -3,6 +3,7 @@ import * as S from "./styles";
 
 import { Container } from "styles/globals";
 import { useEffect, useState } from "react";
+import { relative } from "node:path";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -25,10 +26,10 @@ const Header = () => {
             duration={duration}
           >
             <img
-              src="/img/logo.svg"
+              src="/img/CM Agência.jpg"
               alt="Logo com as inicias 'C A'"
-              width={35}
-              height={37}
+              width={125}
+              height={130}
             />
           </Link>
 
@@ -55,8 +56,8 @@ const Header = () => {
                 </Link>
               </S.NavItem>
               <S.NavItem>
-                <a href="https://www.linkedin.com/in/carlos-miguel-8b75b51b5/" target="_blank" rel="noopener">
-                  Linkedin
+                <a href="https://github.com/C4RL0M" target="_blank" rel="noopener">
+                  Github
                 </a>
               </S.NavItem>
               <S.NavItem>
@@ -105,8 +106,8 @@ const Header = () => {
               </Link>
             </S.MobileItem>
             <S.MobileItem>
-              <a href="https://www.linkedin.com/in/carlos-miguel-8b75b51b5/" target="_blank" rel="noopener">
-              Linkedin
+              <a href="https://github.com/C4RL0M" target="_blank" rel="noopener">
+              Github
               </a>
             </S.MobileItem>
             <S.MobileItem>

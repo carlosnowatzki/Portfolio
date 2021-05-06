@@ -42,11 +42,11 @@ export const Welcome = styled.div`
     }
 
     svg {
-      margin-left: 10px;
+      margin-left: 15px;
       animation-name: ${shakeHands};
-      animation-duration: 0.7s;
+      animation-duration: 1.3s;
       animation-iteration-count: infinite;
-      transform-origin: 70% 70%;
+      transform-origin: 190% 190%;
       display: inline-block;
 
       @media (max-width: ${theme.media.sm}) {
