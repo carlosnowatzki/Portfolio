@@ -18,10 +18,10 @@ const AboutSection = () => {
           old.
         </S.AboutTexts>
         <S.AboutTexts>
-        To be honest I can't say when I really started to like programming, I just know that it came out of nowhere in my life! Previously my hobby was playing football, I was an active member of several clubs, my spells were for clubs like: Novo Hamburgo, Aimoré, Juventude, Ivoti and lastly Grêmio.
+        To be honest I can't say when I really started to like programming, I just know that it came out of nowhere in my life! Previously my hobby was playing soccer, I was an active member of several clubs, i was member of the following teams : Novo Hamburgo, Aimoré, Juventude, Ivoti and lastly Grêmio.
         </S.AboutTexts>
         <S.AboutTexts>
-        Last year I started in college and started my computer engineering course. I am not very curious about the method used to encompass electrical engineering with programming, for you reader who may not know it, computer engineering is the union of electrical engineering with computer science.
+        Last year I started in college and my computer engineering course. I'm not very curious about the method used to encompass electrical engineering with programming, for some people who dont know, computer engineering is the union of electrical engineering with computer science.
         </S.AboutTexts>
         <S.AboutTexts>
         As I mentioned earlier, I didn’t really like college, so I made the switch to computer science where I’m really enjoying the course. I started in 2020 to work in an e-commerce company where talking to several programmers from the company that I really started to make progress in my field of learning.
