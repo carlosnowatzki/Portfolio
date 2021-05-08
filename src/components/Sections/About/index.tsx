@@ -37,7 +37,7 @@ const AboutSection = () => {
             title="Rainbow Six Siege"
             rel="noopener"
           >
-           ̿̿ ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= (Rainbow Six Siege) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿ ̿̿      
+           ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= (Rainbow Six Siege) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿     
           </a>
           .
         </S.AboutTexts>
