@@ -30,7 +30,7 @@ const AboutSection = () => {
         In this portfolio I aim to show my applications that I uploaded to my Github, I am very grateful to my friend Caio, who gave me the opportunity to learn from this portfolio!
         </S.AboutTexts>
         <S.AboutTexts>
-        If you want to have a friendship with me just call me to play {" "}
+        If you want to have a friendship with me just call me to play  ( ͡° ͜ʖ ͡°) # ▄︻̷̿┻̿═━一 {" "} 
           <a
             href="https://www.ubisoft.com/pt-br/game/rainbow-six/siege"
             target="_blank"
