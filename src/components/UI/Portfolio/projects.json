@@ -3,7 +3,7 @@
     "project_name": "De Marcar",
     "project_description": "Project developed for consultation of dentists all over Brazil, it has with its functionality the appointment and scheduling of appointments. Basically it does the receptionist's functionality, currently I'm in charge of maintaining the project. I carried out the project in PHP using Laravel for its configuration on the back-end and on the front Blade. Enter the link and check out this project that's cool!",
     "project_git": "http://demarcar.com.br/",
-    "project_image": "http://demarcar.com.br/img/background.jpeg"
+    "project_image": "https://www.boaconsulta.com/blog/wp-content/uploads/2019/05/conheca-todas-as-especialidades-de-um-dentista.jpeg"
   },
   {
     "project_name": "3RICIAS Cidadania Italiana",
