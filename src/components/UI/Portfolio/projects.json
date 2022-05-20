@@ -1,29 +1,35 @@
 [
   {
-    "project_name": "ZIP query",
-    "project_description": "Project developed for the zip code consultation of the region you want, I was inspired by my work where I see clients consult the desired freight values ​​for their location.",
-    "project_git": "https://github.com/C4RL0M/Consulta-de-CEP",
-    "project_image": "https://aletp.com.br/wp-content/uploads/2017/08/logo-correios.png"
+    "project_name": "De Marcar",
+    "project_description": "Project developed for consultation of dentists all over Brazil, it has with its functionality the appointment and scheduling of appointments. Basically it does the receptionist's functionality, currently I'm in charge of maintaining the project. I carried out the project in PHP using Laravel for its configuration on the back-end and on the front Blade. Enter the link and check out this project that's cool!",
+    "project_git": "http://demarcar.com.br/",
+    "project_image": "http://demarcar.com.br/img/background.jpeg"
   },
   {
-    "project_name": "Robo for iq option",
-    "project_description": "Make income from anywhere in the world with just 1 cell phone or computer and an internet connection, even if you don't understand anything about the market. Be your own boss. Profit from where and when you want.",
-    "project_git": "https://github.com/C4RL0M/Analise-do-grafico-IQ",
-    "project_image": "https://trademarketbrasil.com.br/wp-content/uploads/2020/06/-robo-trader-iq-option-e-op-2-1024x576.jpg"
+    "project_name": "3RICIAS Cidadania Italiana",
+    "project_description": "3RICIAS Consulting and Advisory considered the best International Business Hub, as it presents an innovative and disruptive model where it provides the provision of multiple services to millions of customers through several partner companies. With a high level of quality, safety, performance, availability and a significant reduction in the effort of all bureaucracy to its customers.",
+    "project_git": "https://3ricias.com.br/",
+    "project_image": "https://3ricias.com.br/images/roman-coliseum-seen-from-afar.jpg"
   },
   {
-    "project_name": "Site under Maintenance",
-    "project_description": "Tche Reformas & Reparos is a company with more than 25 years of experience in the civil construction segment. With the commitment to serve our customers with mastery, we are standing out within the segment. Today we have highly qualified professionals with a team formed by Engineers, Architects, Technicians, Electricians, Bricklayers, among other functions of extreme importance to develop any type of services within the construction sector. Check it out.",
-    "project_url": "https://tchereformas.com.br/",
-    "project_git": "https://github.com/C4RL0M/Projeto-Tch-Reformas-e-Reparos-",
-    "project_image": "https://cdn.dooca.store/2221/files/verde-e-preto-padrao-reuniao-da-empresa-apresentacao.jpg?v=1616166053"
+    "project_name": "Capital Brockers",
+    "project_description": "Basically the idea of this project is to focus on the sale of houses located in GOIÁS. In need of a solution or wanting to invest in the real estate market, count on the maximum transparency and attention of a specialized broker. They are specialized in the purchase and sale of real estate, we provide all the necessary advice to carry out a safe and peaceful transaction, with quality legal and operational follow-up. Recognized for professional ethics and transparency in the real estate market, we offer our customers a personalized service, resulting in security and satisfaction in all the deals carried out.",
+    "project_git": "https://capitalbrokersimoveis.com/",
+    "project_image": "https://d1wtgsutamk1fj.cloudfront.net/media/09306d93-943d-4b4e-9131-a7e2d81de7f4/buildings/d0013fb7-5600-45c8-9f45-0d2b8c7c7e9c/images/1200x900/outside/SyNSJoMz3tDsc2Gh27Wa2nQpYvbARiRuXypU7Uhq.jpg"
+  },
+  {
+    "project_name": "Carlos Nowatzki",
+    "project_description": "Book exhibition site for Carlos Nowatzki. Second slide. He was a professor-researcher at Unisinos University for 32 years, teaching Geosciences classes to undergraduate students in Physics, Mathematics, Biology, Civil Engineering and Geology. Below is my book Lexicon of Sedimentary Structures.",
+    "project_url": "https://carloshenriquenowatzki.vercel.app/",
+    "project_git": "https://carloshenriquenowatzki.vercel.app/",
+    "project_image": "https://carloshenriquenowatzki.vercel.app/images/carlosnowatzkiLivro1.png"
   },
   {
     "project_name": "PHP",
     "project_description": "Repository created to start my learning in php, I made simple applications to more complex applications, to check the most elaborate projects, check, app to open calls, customer registration, product registration and contact!",
     "project_git": "https://github.com/C4RL0M/PHP-HMTL-CSS",
     "project_image": "https://pplware.sapo.pt/wp-content/uploads/2020/07/php_01.jpg"
-  },
+  }, 
   {
     "project_name": "Exchanging messages",
     "project_description": "Application developed to carry out message exchange, using the browser as a user and your machine as a local server. Follow Readme.md for the installation step by step.",

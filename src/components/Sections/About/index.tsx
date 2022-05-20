@@ -14,21 +14,15 @@ const AboutSection = () => {
         <Title>About</Title>
 
         <S.AboutTexts>
-          My name is Carlos Nowatzki, I’m from Brazil and I’m 19 years
+          My name is Carlos Nowatzki, I’m from Brazil and I’m 20 years
           old.
         </S.AboutTexts>
         <S.AboutTexts>
-        To be honest I can't say when I really started to like programming, I just know that it came out of nowhere in my life! Previously my hobby was playing soccer, I was an active member of several clubs, i was member of the following teams : Novo Hamburgo, Aimoré, Juventude, Ivoti and lastly Grêmio.
-        </S.AboutTexts>
+        To be honest, I can't say when I started to like programming, I just know that it came out of nowhere in my life! Previously my hobby was playing football, I was an active member of several clubs, I was part of the following teams: Novo Hamburgo, Aimoré, Juventude, Ivoti and finally Grêmio.        </S.AboutTexts>
         <S.AboutTexts>
-        Last year I started in college and my computer engineering course. I'm not very curious about the method used to encompass electrical engineering with programming, for some people who dont know, computer engineering is the union of electrical engineering with computer science.
-        </S.AboutTexts>
+        I started in college and my computer engineering course. I'm not very curious about the method used to encompass electrical engineering with programming, for those who don't know, computer engineering is the union of electrical engineering with computer science.        </S.AboutTexts>
         <S.AboutTexts>
-        As I mentioned earlier, I didn’t really like college, so I made the switch to computer science where I’m really enjoying the course. I started in 2020 to work in an e-commerce company where talking to several programmers from the company that I really started to make progress in my field of learning.
-        </S.AboutTexts>
-        <S.AboutTexts>
-        In this portfolio I aim to show my applications that I uploaded to my Github, I am very grateful to my friend Caio, who gave me the opportunity to learn from this portfolio!
-        </S.AboutTexts>
+        In this portfolio I intend to show my applications that I uploaded on my Github, I am very grateful to my friend Caio, who gave me the opportunity to learn from this portfolio!        </S.AboutTexts>
         <S.AboutTexts>
         If you want to have a friendship with me just call me to play {" "} 
           <a
@@ -37,7 +31,7 @@ const AboutSection = () => {
             title="Rainbow Six Siege"
             rel="noopener"
           >
-           ̿̿ ̿̿ ̿'̿'\̵͇̿̿\з= (Rainbow Six Siege) =ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿̿     
+          Rainbow Six Siege
           </a>
           .
         </S.AboutTexts>
@@ -53,15 +47,6 @@ const AboutSection = () => {
           </a>
           ,{" "}
           <a
-            href="https://www.php.net/"
-            target="_blank"
-            title="PHP documentation"
-            rel="noopener"
-          >
-            PHP
-          </a>
-          ,{" "}
-          <a
             href="https://www.typescriptlang.org/"
             target="_blank"
             title="Documentation of TypeScript"
@@ -71,13 +56,32 @@ const AboutSection = () => {
           </a>
           ,{" "}
           <a
+            href="https://vuejs.org/"
+            target="_blank"
+            title="Laravel documentation"
+            rel="noopener"
+          >
+            Vue.JS
+          </a>
+          ,{" "}
+          <a
             href="https://testing-library.com/docs/react-testing-library/intro/"
             target="_blank"
             title="Documentation of React Testing Library"
             rel="noopener"
           >
             React Testing Library
-          </a>{" "}
+          </a>
+          ,{" "}
+          <a
+            href="https://laravel.com/"
+            target="_blank"
+            title="Laravel documentation"
+            rel="noopener"
+          >
+            PHP com Laravel para back-end
+          </a>
+          {" "}
           and more.
         </S.AboutTexts>
       </Container>

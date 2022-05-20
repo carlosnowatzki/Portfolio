@@ -14,7 +14,7 @@ const ContactSection = () => {
         <S.ContactMeText>
           If you want to carry out a project or chat with me, do not hesitate to
           send me an email:{" "}
-          <a href="mailto:goleirocm@hotmail.com">goleirocm@hotmail.com</a>
+          <a href="mailto:carlosmiguelnowaztki@outlook.com">carlosmiguelnowaztki@outlook.com</a>
         </S.ContactMeText>
 
         <a href="https://www.linkedin.com/in/carlos-miguel-8b75b51b5/" target="_blank" rel="noopener">
